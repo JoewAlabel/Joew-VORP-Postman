@@ -14,6 +14,6 @@ My version of [VORP-Postman](https://github.com/VORPCORE/VORP-PostMan)
 - Download the lastest version of [Joew-VORP-Postman](https://github.com/JoewAlabel/Joew-VORP-Postman/releases/tag/1.0)
 - Copy and paste ```joew_vorp_postman``` folder to ```resources/joew_vorp_postman```
 - Add ```ensure joew_vorp_postman``` to your ```server.cfg``` file
-- Set it the configs you want to the file: ```Config.json```
+- Set up the configs you want in the file: ```Config.json```
 - To change the language go to ```resources/joew_vorp_postman```, remove the ```Config.json``` file and rename ```Config_Es.json``` (In this case to change it to Spanish) to ```Config.json```
 - Enjoy!
