@@ -11,7 +11,7 @@ My version of [VORP-Postman](https://github.com/VORPCORE/VORP-PostMan)
 - [VORP Core](https://github.com/VORPCORE/VORP-Core/releases)
 
 ## How to install
-- Download the lastest version of [Joew-VORP-Postman](https://github.com/JoewAlabel/Joew-VORP-Postman/releases/tag/1.0)
+- Download the lastest version of [Joew-VORP-Postman](https://github.com/JoewAlabel/Joew-VORP-Postman/releases/latest)
 - Copy and paste ```joew_vorp_postman``` folder to ```resources/joew_vorp_postman```
 - Add ```ensure joew_vorp_postman``` to your ```server.cfg``` file
 - Set up the configs you want in the file: ```Config.json```
