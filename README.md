@@ -7,6 +7,9 @@ My version of [VORP-Postman](https://github.com/VORPCORE/VORP-PostMan)
 - Added multiplier bonus to money and xp for the first delivery if is in another city. You can set both at Config file.
 - You can set up the change to deliver be to another city or to the same at Config file.
 
+## Requirements
+- [VORP Core](https://github.com/VORPCORE/VORP-Core/releases)
+
 ## How to install
 - Download the lastest version of [Joew-VORP-Postman](https://github.com/JoewAlabel/Joew-VORP-Postman/releases/tag/1.0)
 - Copy and paste joew_vorp_postman folder to resources/joew_vorp_postman
