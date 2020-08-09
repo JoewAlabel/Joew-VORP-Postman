@@ -8,7 +8,6 @@ My version of [VORP-Postman](https://github.com/VORPCORE/VORP-PostMan)
 - You can set up the change to deliver be to another city or to the same at Config file.
 
 ## Cities:
-Cities:
 - [x] Valentine
 - [x] Saint Denis
 - [x] Strawberry
