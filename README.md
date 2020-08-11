@@ -11,7 +11,7 @@ My version of [VORP-Postman](https://github.com/VORPCORE/VORP-PostMan)
 - [x] Valentine
 - [x] Saint Denis
 - [x] Strawberry
-- [ ] Annesburg
+- [x] Annesburg
 - [ ] Armadillo
 - [ ] Blackwater
 - [ ] Colter
