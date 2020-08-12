@@ -12,8 +12,8 @@ My version of [VORP-Postman](https://github.com/VORPCORE/VORP-PostMan)
 - [x] Saint Denis
 - [x] Strawberry
 - [x] Annesburg
-- [ ] Armadillo
-- [ ] Blackwater
+- [x] Armadillo
+- [x] Blackwater
 - [ ] Colter
 - [ ] Lagras
 - [ ] Mount Hagen
