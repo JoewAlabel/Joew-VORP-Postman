@@ -30,3 +30,13 @@ My version of [VORP-Postman](https://github.com/VORPCORE/VORP-PostMan)
 - Set up the configs you want in the file: ```Config.json```
 - To change the language go to ```resources/joew_vorp_postman```, remove the ```Config.json``` file and rename ```Config_Es.json``` (In this case to change it to Spanish) to ```Config.json```
 - Enjoy!
+
+## Credits
+- All people from [VORP Core](https://github.com/VORPCORE/VORP-Core/releases) for this awesome project, release and all help at [discord channel](https://discord.gg/NUAytJ) ;)
+- Chico: He translated all cities locations to German. Ty very much for all the help!
+- Neo Green: He reported some issues and always help me wherever i need some assistence!
+- Xmau: Helped me to improve my code that fixed the bug after stop and start job again, thanks so much!
+- ruby216: Always helps answering questions and approving the fixes to official's repo very fast!
+- Poke: Create the code to unlock banks doors: [Code only for open banks doors, client side](https://discordapp.com/channels/704317931453939803/704317933353959432/740222261788672071)
+- Ned Rawd: Give me the code to unlock all blackwater bank doors: [Code](https://prnt.sc/tyo08r)
+- Armadillo Bank Door Hash (use with Poke's code): 3101287960
