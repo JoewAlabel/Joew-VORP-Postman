@@ -33,11 +33,11 @@ My version of [VORP-Postman](https://github.com/VORPCORE/VORP-PostMan)
 - Enjoy!
 
 ## Credits
-- All people from [VORP Core](https://github.com/VORPCORE/VORP-Core/releases) for this awesome project, release and all help at [discord channel](https://discord.gg/NUAytJ) ;)
+- All people from [VORP Core](https://github.com/VORPCORE/VORP-Core/releases) for this awesome project, release and all help at [discord channel](http://discord.vorpcore.com/) ;)
 - Chico: He translated all cities locations to German. Ty very much for all the help!
 - Neo Green: He reported some issues and always help me wherever i need some assistence!
 - Xmau: Helped me to improve my code that fixed the bug after stop and start job again, thanks so much!
 - ruby216: Always helps answering questions and approving the fixes to official's repo very fast!
-- Poke: Create the code to unlock banks doors: [Code only for open banks doors, client side](https://discordapp.com/channels/704317931453939803/704317933353959432/740222261788672071) [Code Img](https://prnt.sc/u3pino)
-- Ned Rawd: Give me the code to unlock all blackwater bank doors: [Code](https://prnt.sc/tyo08r)
+- Poke: Create the code to unlock banks doors: [Discord](https://discordapp.com/channels/704317931453939803/704317933353959432/740222261788672071) / [Img](https://prnt.sc/u3pino) / [Pastebin](https://pastebin.com/hyUmRe0c)
+- Ned Rawd: Give me the code to unlock all blackwater bank doors: [Img](https://prnt.sc/tyo08r) / [Pastebin](https://pastebin.com/3gV1cm0y)
 - Armadillo Bank Door Hash (use with Poke's code): 3101287960
