@@ -5,7 +5,8 @@ My version of [VORP-Postman](https://github.com/VORPCORE/VORP-PostMan)
 ## New Features:
 - Deliver to another cities too.
 - Added multiplier bonus to money and xp for the first delivery if is in another city. You can set both at Config file.
-- You can set up the change to deliver be to another city or to the same at Config file.
+- You can set up the chance to deliver be to another city or to the same at Config file.
+- Added option in config file to Show at Right bottom of the screen the place to deliver the package.
 
 ## Cities:
 - [x] Valentine
@@ -17,7 +18,7 @@ My version of [VORP-Postman](https://github.com/VORPCORE/VORP-PostMan)
 - [ ] Colter
 - [ ] Lagras
 - [ ] Mount Hagen
-- [ ] Rhodes
+- [x] Rhodes
 - [ ] Tumbleweed
 
 ## Requirements
